@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 A simple daemon for collecting monitoring packets from a remote XRootD
